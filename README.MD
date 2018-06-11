@@ -44,4 +44,5 @@ See also [gitmoji](https://gitmoji.carloscuesta.me/).
 | Breaking changes           | :boom: `:boom:`                               |
 | Code review changes        | :ok_hand: `:ok_hand:`                         |
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
+| Git Ignore changes         | :raised_hand: `:raised_hand:`                 |
 | Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
