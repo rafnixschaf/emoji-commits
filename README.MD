@@ -45,4 +45,5 @@ See also [gitmoji](https://gitmoji.carloscuesta.me/).
 | Code review changes        | :ok_hand: `:ok_hand:`                         |
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
 | Git Ignore changes         | :raised_hand: `:raised_hand:`                 |
+| Git Submodule changes      | :arrow_double_up: `:arrow_double_up:`          
 | Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
