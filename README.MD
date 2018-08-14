@@ -7,6 +7,7 @@ See also [gitmoji](https://gitmoji.carloscuesta.me/).
 | Initial commit             | :tada: `:tada:`                               |
 | Version tag                | :bookmark: `:bookmark:`                       |
 | New feature                | :sparkles: `:sparkles:`                       |
+| Remove feature             | :comet: `:comet:`                             |
 | Bugfix                     | :bug: `:bug:`                                 |
 | Metadata                   | :card_index: `:card_index:`                   |
 | Documentation              | :books: `:books:`                             |
